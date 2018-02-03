@@ -24,12 +24,12 @@ weight = 5
 [[education.courses]]
   course = "MS in Industrial Engineering & Operations Research"
   institution = "UC Berkeley"
-  year = 2009
+  year = 2014
 
 [[education.courses]]
   course = "BS in Industrial Engineering & Operations Research"
   institution = "UC Berkeley"
-  year = 2008
+  year = 2013
  
 +++
 

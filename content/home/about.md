@@ -35,7 +35,8 @@ weight = 5
 
 # Biography
 
-Erik Bertelli is a PhD student at UC Berkeley.
+I am a PhD student in the Industrial Engineering & Operations Research department at UC Berkeley. My advisor is Prof Candi Yano. My research is currently focused on Inventory Control for multi-generational high-tech products with uncertain warranty obligations. 
 
-He really likes baseball. 
+In my free time I enjoy watching classic movies and going to baseball games. 
 
+{{% staticref "files/bertelli_cv.pdf" %}}View my CV{{% /staticref %}}

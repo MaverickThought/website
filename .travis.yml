@@ -23,5 +23,6 @@ deploy:
   target-branch: master
   repo: MaverickThought/MaverickThought.github.io # Replace <USER> with your username
   verbose: true
+  fdnq: erikbertelli.com
   on:
     branch: master

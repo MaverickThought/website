@@ -39,4 +39,3 @@ Erik Bertelli is a PhD student at UC Berkeley.
 
 He really likes baseball. 
 
-He is really confused by DNS settings. 

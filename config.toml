@@ -62,7 +62,7 @@ defaultContentLanguageInSubdir = false
   email = "erikbertelli@berkeley.edu"
   address = "4176 Etcheverry Hall, University of California, Berkeley, CA 94720"
   office_hours = ""
-  phone = "209.777.5759"
+  #phone = "209.777.5759"
   skype = ""
   telegram = ""
 

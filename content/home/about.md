@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Inventory Control",
-    "Forecasting",
+    "Routing",
     "Baseball"
   ]
 
@@ -19,7 +19,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Industrial Engineering & Operations Research"
   institution = "UC Berkeley"
-  year = 2019
+  year = 2021
 
 [[education.courses]]
   course = "MS in Industrial Engineering & Operations Research"

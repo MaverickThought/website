@@ -17,6 +17,11 @@ weight = 60
 
 While at UC Berkeley, I have served as a Graduate Student Instructor for a number of undergraduate (100 series) and graduate (200 series) courses:
 
+- IEOR 150 Production Systems Analysis, Prof Yano, Fall 2020
+- IEOR 153 Logistics Network Design and Supply Chain Management, Instructor Olfat, Spring 2020
+- IEOR 150 Production Systems Analysis, Prof Yano, Fall 2019
+- IEOR 153 Logistics Network Design and Supply Chain Management, Prof Ozsen, Spring 2019
+- IEOR 150 Production Systems Analysis, Prof Yano, Fall 2018
 - IEOR 240 Optimization Analytics, Prof Adler, Fall 2017
 - UBGA 141 Introduction to Operations Management, Prof Yano, Spring 2014
 - IEOR 160 Operations Research I, Prof Hochbaum, Fall 2013
